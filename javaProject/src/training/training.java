@@ -10,7 +10,7 @@ public class training {
 		int somme= num1 +num2 ;
 		System.out.println();
 		System.out.println("result:"+ " "+ somme );
-		
+		System.out.println("Done!");
 		
 	}
 
