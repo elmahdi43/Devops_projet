@@ -11,6 +11,7 @@ public class training {
 		System.out.println();
 		System.out.println("result:"+ " "+ somme );
 		System.out.println("Done!");
+		
 	}
 
 }
